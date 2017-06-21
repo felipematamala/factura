@@ -1,2 +1,2 @@
 # factura
-Codo a codo ejercicio de factura
+Ejemplo de modelado implementado en Java
